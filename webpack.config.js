@@ -13,13 +13,22 @@ module.exports = {
             exclude : /node_modules/
         },
         {
+            test: /\.(pdf|jpg|png|gif|svg|ico)$/,
+            use: [
+                {
+                    loader: 'url-loader'
+                },
+            ]
+        },
+        {
             test : /\.s?css$/,
             use : [
                 'style-loader',
                 'css-loader',
                 'sass-loader'
             ]
-        }]
+        }
+    ]
     },
     devtool : 'cheap-module-eval-source-map',
     devServer : {

@@ -1,0 +1,17 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+
+font name: Lovelo Line Light
+font link: https://www.fontfabric.com/lovelo-font/
+font author: Renzler Design
+font author site: http://www.braenda.com/
+
+icon designer: Vectors Market
+icon designer link: /vectorsmarket
+        
+
+fontColor: {"gradient-0":"#121E27","gradient-1":"#2B6FA7"}
+bgColor: {"hex":"#d1d1d6"}
+iconColor: {"gradient-0":"#121E27","gradient-1":"#2B6FA7"}
+      
