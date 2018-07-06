@@ -4,7 +4,7 @@
 .searchBox {
     width : 40%;
     padding: 12px 20px;
-    border: 2px solid #233b50;
+    border: 2px solid #2b6fa7;
     border-radius: 4px;
     box-sizing: border-box;
     background-color: $backgroundColor;
@@ -14,7 +14,7 @@
 }
 
 .searchBox:focus {
-    border: 3px solid #555;
+    border: 3px solid #173146;
 }
 
 .buttonArea {
@@ -23,7 +23,7 @@
 .buttonArea .searchButton { 
     background-color: $backgroundColor;
     margin-top : 20px;
-    border: 2px solid #233b50;
+    border: 2px solid #2b6fa7;
     border-radius: 4px;
     padding: 12px 20px;
     outline : none;
@@ -32,6 +32,7 @@
 }
 
 .searchButton:hover {
-    background-color: $dark-blue;
-    color : #233b50;
+    background-color: #173146;
+    border: 2px solid #173146; 
+    color : $off-white;
 }
