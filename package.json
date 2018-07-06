@@ -7,7 +7,9 @@
     "serve": "live-server public/",
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",
-    "dev-server": "webpack-dev-server"
+    "dev-server": "webpack-dev-server",
+    "start" : "node server/server.js",
+    "heroku-postbuid" : "yarn run build:prod"
   },
   "dependencies": {
     "babel-cli": "6.24.1",
