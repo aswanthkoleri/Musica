@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Header from './components/header';
-import Footer from './components/footer';
 import Action from './components/action';
 import MainApp from './components/mainApp';
 import 'normalize.css/normalize.css';
@@ -12,7 +11,6 @@ const Layout =(props)=>{
         <div>
         <Header/>
         {props.children}
-        <Footer/>
         </div>
     ); 
 };
