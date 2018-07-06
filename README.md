@@ -1,13 +1,13 @@
 # Música :guitar:
 
-<img src="src/assets/images/logo/icon-left-font.png" width = "700" height= "300">
+<img src="src/assets/images/logo/icon-left-font.png" width = "700" height= "250">
 <br>
 
-A simple web app where you can download music for free in just one click.The web app is made using **React JS** which makes it very fast. :thunder:
+A simple web app where you can download music for free in just one click.The web app is made using **React JS** which makes it very fast. 
 
 ## Features 
 
-You can search the music you want to download in the search engine. Press enter. Direct download buttons of top 10 results of that song will appear below the search bar.
+You can search the music you want to download in the search engine. Press enter. Direct download buttons of top 10 results of that song will appear below the search bar. :headphones:
 
 ## How to run 
 
@@ -29,8 +29,6 @@ Follow these steps :
 
 ![screenshot1](screenshots/1.png)
 ![screenshot2](screenshots/2.png)
-![screenshot3](screenshots/3.png)
-
 
 ## Contributions 
 
