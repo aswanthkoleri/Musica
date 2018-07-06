@@ -1,6 +1,6 @@
 # Música :guitar:
 
-<img src="src/assets/images/logo/icon-left-font.png" width = "400" height= "300">
+<img src="src/assets/images/logo/icon-left-font.png" width = "700" height= "300">
 <br>
 
 A simple web app where you can download music for free in just one click.The web app is made using **React JS** which makes it very fast. :thunder:
@@ -26,6 +26,11 @@ Follow these steps :
 - Goto https://localhost:3000
 
 ## Screenshots
+
+![screenshot1](screenshots/1.png)
+![screenshot2](screenshots/2.png)
+![screenshot3](screenshots/3.png)
+
 
 ## Contributions 
 
