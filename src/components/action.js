@@ -21,7 +21,7 @@ export default class Action extends React.Component {
 		const content = (
 		<div className="search">
 		<form onSubmit={this.searchResult}>
-		<input className="searchBox" type="text" name="searchInput"/>
+		<input className="searchBox" type="text" placeholder="Search music...." name="searchInput"/>
 		<div className="buttonArea">
 		<button className="searchButton"> Search </button>
 		</div>
